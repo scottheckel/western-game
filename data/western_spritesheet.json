@@ -1,0 +1,98 @@
+{
+	"cowboy1": {
+		"sx": 0,
+		"sy": 0,
+		"cols": 4,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 4
+	},
+	"cowboy2": {
+		"sx": 0,
+		"sy": 36,
+		"cols": 4,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 4
+	},
+	"cowboy3": {
+		"sx": 0,
+		"sy": 72,
+		"cols": 4,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 4
+	},
+	"cowboy4": {
+		"sx": 0,
+		"sy": 108,
+		"cols": 4,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 4
+	},
+	"cowgirl": {
+		"sx": 0,
+		"sy": 180,
+		"cols": 4,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 4
+	},
+	"cactus": {
+		"sx": 0,
+		"sy": 144,
+		"cols": 3,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 3
+	},
+	"tumbleweed": {
+		"sx": 108,
+		"sy": 144,
+		"cols": 1,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 1
+	},
+	"pistol": {
+		"sx": 0,
+		"sy": 216,
+		"cols": 4,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 4
+	},
+	"rocket": {
+		"sx": 0,
+		"sy": 252,
+		"cols": 4,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 4
+	},
+	"explosion": {
+		"sx": 0,
+		"sy": 288,
+		"cols": 5,
+		"tilew": 36,
+		"tileh": 36,
+		"frames": 5
+	},
+	"pistol_shot": {
+		"sx": 0,
+		"sy": 324,
+		"cols": 1,
+		"tilew": 2,
+		"tileh": 2,
+		"frames": 1
+	},
+	"rocket_shot": {
+		"sx": 36,
+		"sy": 324,
+		"cols": 1,
+		"tilew": 10,
+		"tileh": 2,
+		"frames": 1
+	}
+}
